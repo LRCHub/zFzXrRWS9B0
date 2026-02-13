@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きっとこれは悪い夢",
+  "base_artist": "凍傷のエト",
+  "createdAt": "2026-02-13T09:38:09.963765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きっとこれは悪い夢 (feat. ナースロボ_タイプT)",
+      "artist": "凍傷のエト",
+      "has_synced": false,
+      "path": "select/pl_01_きっとこれは悪い夢_(feat._ナースロボ_タイプT)_凍傷のエト.txt"
+    }
+  ]
+}
